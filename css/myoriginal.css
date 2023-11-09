@@ -1,0 +1,69 @@
+head img {
+    width: 2000px;
+    height: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+}
+/*This is how you center it*/
+h1 {
+    font-size: 3em;
+    font-variant: small-caps;
+
+    text-align: center;
+}
+
+header img {
+    width: 100%;
+}
+
+#mars-sunset {
+    display: flex;
+}
+
+.container {
+    text-align: center;
+    padding: 10px;
+}
+.container img{
+    display: block;
+    margin: 0 auto;
+}
+.code-container{
+    text-align: left;
+}
+
+
+#comet {
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.text-content{
+    text-align:left;
+    flex: 1;
+}
+
+.image-container{
+    text-align: right;
+}
+
+article{
+    text-align: center;
+}
+
+aside{
+    text-emphasis: center;
+}
+
+
+

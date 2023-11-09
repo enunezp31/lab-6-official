@@ -1,0 +1,14 @@
+head img {
+    width: 2000px;
+    height: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header{
+    h1{
+    text-align: center;
+}
+}
